@@ -1,0 +1,129 @@
+{
+  "name": "Token List",
+  "timestamp": "2020-06-21T12:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+    "dex",
+    "cex",
+    "default",
+    "list"
+  ],
+  "tokens": [
+    {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "chainId": 1,
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+    {
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "chainId": 1,
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    {
+      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "chainId": 1,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6
+    },
+    {
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "chainId": 1,
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18
+    },
+    {
+      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "chainId": 1,
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8
+    },
+    {
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "chainId": 1,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6
+    },
+    {
+      "address": "0xF9bA5210F91D0474bd1e1DcDAeC4C58E359AaD85",
+      "chainId": 4,
+      "name": "Maker",
+      "symbol": "MKR",
+      "decimals": 18
+    },
+    {
+      "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+      "chainId": 1,
+      "name": "ChainLink Token",
+      "symbol": "LINK",
+      "decimals": 18
+    },
+    {
+      "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+      "chainId": 1,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18
+    },
+    {
+      "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+      "chainId": 1,
+      "name": "Synthetix Network Token",
+      "symbol": "SNX",
+      "decimals": 18
+    },
+    {
+      "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+      "chainId": 1,
+      "name": "Basic Attention Token",
+      "symbol": "BAT",
+      "decimals": 18
+    },
+    {
+      "address": "0x408e41876cCCDC0F92210600ef50372656052a38",
+      "chainId": 1,
+      "name": "Republic Token",
+      "symbol": "REN",
+      "decimals": 18
+    },
+    {
+      "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+      "chainId": 1,
+      "name": "SushiToken",
+      "symbol": "SUSHI",
+      "decimals": 18
+    },
+     {
+      "address": "0xba100000625a3754423978a60c9317c58a424e3d",
+      "chainId": 1,
+      "name": "Balancer",
+      "symbol": "BAL",
+      "decimals": 18
+    },
+    {
+      "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
+      "chainId": 1,
+      "name": "Ampleforth",
+      "symbol": "AMPL",
+      "decimals": 9
+    },
+    {
+      "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
+      "chainId": 1,
+      "name": "Kyber Network Crystal",
+      "symbol": "KNC",
+      "decimals": 18
+    },
+  ]
+}
